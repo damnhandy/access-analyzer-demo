@@ -47,4 +47,3 @@ jobs:
           reference-policy-type: "IDENTITY"
           region: <AWSRegion>
 
-EOF
